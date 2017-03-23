@@ -1,1 +1,1 @@
-# cellcellinteractions
+# CellCellInteractNet
